@@ -1,0 +1,73 @@
+<style>
+body {
+	background-color: ghostwhite;
+	color: black;	
+	font-family: monospace;
+	margin: auto;
+	display: block;
+	max-width: 60em;
+	padding-left: 5vw;
+	padding-right: 5vw;
+	padding-bottom: 2em;
+}
+/*
+body {
+	background-color: black;
+	color: ghostwhite;
+}
+*/
+a, a:visited, a:active { color: blue; text-decoration: none;}
+a:hover {color: pink;}
+
+h1, h2, h3 { font-size: inherit; }
+h1 { text-align: center; margin-bottom: 2em;}
+h1, h2 { 	text-align: center; font-weight: bold; margin-top: 2em; margin-bottom: 1em; text-transform: uppercase;}
+h3 { text-decoration: underline;}
+ul { list-style-type: circle; }
+ol { list-style-type: upper-roman; }
+
+/*
+h2::before {content: "[ ";}
+h2::after {content: " ]";}
+*/
+
+.column {
+	-webkit-columns: 	300px 2;
+	-moz-columns: 		300px 2;
+	columns: 			300px 2;
+	-webkit-column-gap: 50px;
+	-moz-column-gap: 	50px;
+	column-gap: 		50px;
+}
+
+.no-column{
+	margin: auto;
+	display: block;
+	max-width: 36em;
+}
+nav {
+	text-align: center;
+	margin-top: 5em;
+}
+
+.vr {
+  width: 1px;
+  height: 100%;
+  background-color: black;
+  position: fixed;
+  overflow: visible;
+  top: 0;
+  bottom: 0;
+  left: 10vw;
+	z-index: -1;
+
+}
+
+@media screen and (max-width: 610px) {
+	.vr {
+	background-color: white;
+	}
+ }
+
+
+</style>

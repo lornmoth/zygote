@@ -1,0 +1,29 @@
+@charset "UTF-8";
+body {
+	margin:0px;
+	background-color: #0000ff;
+}
+p {
+	width:42em;
+	height:auto;
+	margin:auto;
+	margin-top:60px;
+	margin-bottom: auto;
+	margin-left: 5em;
+		margin-right: auto;
+	color:white;
+	font-family:serif;
+	font-size:1.5em;
+	text-align:left;
+	line-height:1.5;
+}
+
+PRE{margin-left:5em;color:white;font-size:1.5em;}
+
+a {text-decoration:none;}
+a:link{
+  color:black;
+}
+a:visited{
+  color:black;
+}

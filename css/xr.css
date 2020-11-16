@@ -1,0 +1,39 @@
+@charset "UTF-8";
+@charset "UTF-8";
+body {
+	background-color: black;
+}
+
+h1 {
+	text-align: center;
+}
+p {
+	width:42em;
+	height:auto;
+	margin:auto;
+	margin-top:60px;
+	margin-bottom: auto;
+ 	margin-left: auto;
+    margin-right: auto;
+	color:white;
+	font-family:sans-serif;
+	font-size:1em;
+	text-align:left;
+	line-height:1.1;
+}
+p hl {
+	color:white;
+}
+p red {
+	color:red;
+}
+p mail{
+	font-family:serif;
+	font-size:.8em;
+}
+a:link{
+  color:blue;
+}
+a:visited{
+  color:blue;
+}
