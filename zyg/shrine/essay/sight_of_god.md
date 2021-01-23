@@ -1,0 +1,137 @@
+
+# The Sight of Your God Disturbs Me: Questioning the Post-Christian Bodies of Buffy, Lain, and George
+
+Felicity J. Colman
+
+Contents
+
+1.	Coming Out (of Church) as a Capitalist
+2. ~~Attack of the Clones: Coalescence: homogeneity-public continuums, methodology of modernism-the body of the worker.~~
+3.	~~Buffy Summers: Joints: intimacy-spectacle, connected-separate, matrix-micromoment.~~
+4.	Iwakra Lain: Cybergothic-regionalism, intimacy-animation.
+5.	Acknowledgements
+
+## Coming Out (of Church) as a Capitalist
+
+The spectacle and spectre of the condemned, and/or chosen body illustrates a prefigured contemporary interest in both Nietzschean and phenomenological ‘truths’, presenting the human body as embodied consciousness. This fated body is represented in the many filmic and televisual texts of the Millennial decade that utilize known cybernetic systems for their plot development. In screen cultures, we are shown the human body’s specific neurological and sensory structures, obsessions and desires, organized into visual spectacles that give recognition to perception models, and truths of conditions and patterns of living of a particular society.
+
+In the early 21st Century, the industrial and ecumenical doctrines that continue to govern the body have been laid bare, rousing acknowledgement of a somatic sensitivity and inquisitiveness that has been best illustrated through televisual reality-show bodies of the early 2000s. The machinic treatment and use of a body gendered and territorialised for production has had the undeniable effect of politically situating the body as an abstract management commodity. Into this serialization of the corporeal economy, singular events in our worlds continually reinscribe and refigure the body: illness, decay, trauma, terrorism, torture, disability, modification, carnality, ritual, sensuality; we all have a tale to tell.
+
+Examples of singular activities, forces, and proceedings may direct our focus toward thinking of the experience of individual bodies attached to specific genealogies of race, religion, class and gender, rather than thinking of ‘the body’ in a universal, god-given sense. However, individual inclusion and participation in the world can only ever be through the possibilities afforded to the somatic and intellectual consciousness available at a specific position within the ideological field of production.
+
+I’ve chosen screen texts through which to explore and articulate contemporary representations of the social relations and barriers of the cyber-human constructed to function under the forces and drives of cybernetic systems. As a preamble to this discussion, I want to position a conceptual association between the idea of a system and of a serial text, one whose relationality is engendered in screen narration, subsequently generating an autopoetic functioning of the text.
+
+Cybernetic systems are no more than the playing out of capitalism, under the current imperialism of a Christian ethic that relies on a sadomasochistic authorial control over its workers’ bodies. Jennifer González has referred to the Western cultural visualisation of the forces of machinic and organic hybridising systems as a “cyborg consciousness”; referring to the “spatial and political agency implied by a given cyborg body” (2000: 59). The visual texts I am looking to for an articulation of this cyborgian consciousness share an obvious serial construction. Seriality in contemporary screen culture can be seen as symptomatic of this consciousness. Literally in a serial text there exists an operative between the robotic, mechanical repetition of a formula and format, and the independent, self governing moments of narrative/plot progression. Heaven and Hell. You should be fearful.
+
+These screen texts are representative of the plethora of end of millennial eschatological and apocalyptic fictions produced in the 1990s. A subtext of this social (and politically controlled) movement of the visualisation of cyber-ontology has been the discovery and public knowledge of the human genetic code in the year 2000 (BBC News :2000). The awareness of lived events shapes perception of forms and their content is one of the reasons why the televisual format can be so successful (and date so quickly) in its expression of a ‘truth’ of a given moment. The ‘truth’ of this particular apocalyptic moment has been the constant levels of control placed upon the potently sensate body on its desire (and need) for ceremonial (repetitive, ritualised) satisfaction.
+
+Physical illustration of an ontological condition of the body is culturally contextual. What is the truth of the body in the serialized screen world? Frequently, embodied realities are presented on screen as linguistically and gesticulatory performances of models of behaviour that either conform or represent sub cultural modes of activity within the serial society. The serial, dependent upon its semiotic codes of gesture, movement, and activity, engage with the materialist discourses of the serialised body with varying degrees of transparency. Truth of ontology is what transpires for the body of the character by the end of the serial narration; the serial body is a concept temporally produced, and not merely an intercultural universal action figure.
+
+The merger of cultural interfaces alters the spatial and temporal experience of mediated ‘reality’. This variable configuration of time and space transforms the body’s perceptual and physical relations with the living systems of the world (and these include machinic as well as organic). The affect of compounding modalities of registration on the body’s sensory structures, and by implication, interaction/development of the world is extreme. The consumption of technology at this point in human history means that bodies are as much producers as they are consumers, due to that modality of autopoiesis (from the Greek word poiesis meaning to make and create in the poetic and philosophical sense). Poly-consumptive practice is a self-productive desiring aesthetic that regulates embodied consciousness.[^1] The links between technology, the autopoietic mode (of producer/consumer), and the effect on ontology have been made by many theorists, from Heidegger to Guattari. My examples here are posited to further survey the sensory interface of (on and off screen) avatars who reject empiricism in favour of (a reductionist / an ecstatic) consumption.
+
+Screen cultures undeniably communicate the aesthetic experience and consciousness of the body in its materially constructed world, often in a way that renders ontology for the serial body as a productive text, yet ultimately one that will be destructive in its repetitious performance of a recognisable commodity's form of being. A t-shirt hemline, a location establishment shot, the dialogue that is generative of the power, gender, and aesthetic concerns of characters’ sensory structures, obsessions and desires – each of these things sen(se)rially perceptible for the embodied spectator, yet ontologically acceptable contingent to that viewer and auditor’s aesthetic preference.
+
+What I am referring to as a cybernetic body - referring to a living, machinic system, as Félix Guattari described in his book Chaosmosis (1992). The cybernetic bodies in these serialised screen universes take as their premise an ontologically constructed body. That is, a cybernetic consciousness that is dealing with the principles and essence of the ‘pure being’ of its physical and machinic corporeality. These bodies engage, perceive, and utilize various states of emotional response to sensory material as ways of interpretative categorization of their worlds, with varying degrees of self-acknowledgement of the socialized (including theological) construction of emotional response. Experience, in this guise of the old quest for the self in situ with the sublime can be described by what John Frow called the ‘logic of tourism’, as a commodification of information of any form of alterity (1997: 101). Experience, whether technological, sexual, ethnographic, or spiritual, constructs and consumes a cognisance and ontology of being that is authentic ‘cultural capital’. The contemporary cybernetic system is still grounded by its utopian desire for the promissory note of a Christian redemptive eternity that will sate the body/soul forever. This is a utopian originary narrative that is typical of turn of the C20th science-fictive texts.
+
+Eschatological narratives aside, the contemporary representation of a cyber-body/ cyber consciousness aestheticises that body, and describes it as a site of ontological 'truth'-of-existence (which I would place in the similar category as 'faith' – as involved with the construction of an “imaginary” relationship with reality) (Nietzsche, The Anti-Christ, 1990: 137).
+
+As I teach students who are enormously interested in these kinds of texts, who have committed them to their own personal histories as an integral, formative perceptual experience of their worlds, I am concerned to seriously think through aspects of the concepts they represent and convey. In attempting to articulate the driving structures behind these subjective formations and attachment to popular screen texts, I seek to highlight how the micropolitics of consumerism generates problematic aesthetics in their representation of the ontology of the body.
+
+
+### Iwakra Lain: Cybergothic-regionalism, intimacy-animation.
+
+Serial Experiments: Lain (Lain)’s text explores the link between consciousness and the life of that consciousness once it becomes ‘wired’, that is, connected to and part of the internet’s hyperworld. Lain carries the implicit analogy of the traumatic alterity of the teen-body. 
+
+Lain’s storyline commences with the suicide of a fellow classmate (Layer 1: “Navi”). Lain is concerned to find out why this 13 year old school girl committed suicide, so that she may enter the electronic universe. Lain is able to find this out, as the dead girl’s ‘energy’, expunged of its physical form has been able to continue without the need for a physical body, and utilises instead the cyberworld, where consciousness is ‘free’. Lain also finds that she is able to transmit her energy into ‘the wired’, and starts communicating on a mass scale, to friends, and strangers within her community, and by implication, the world. The series ends with the message that ‘we are all connected’, and have no need for our corporeal bodies (Layer 12: “Landscape”; Layer 13: “Ego”).
+
+The freedom that comes with this gothic/romantic flight from the ‘real’ world is described by the series as a type of de-animation. The inactivity of the flesh promises a new ontology of the body – spoken and written in the ether. This hypertexual existence describes an ability to tap into the collective unconscious for a global awareness of the Earth, hence determining the position of God in Lain cyberaesthetically.
+
+Lain presents an historical account of the perception of being a 2nd generation of a wired species/society, (we might think of the 1st generation as the cyberpunks of the early 1990s), and how that has altered an individual's consciousness of their world perception. Lain’s perceptual cyberspace is a mutating data site of activities and knowledge. Her memory and experience is limited to that of a young teen. The realization of her physical and mental boundaries shift and swell once her body is plugged into the navi/navigation mechanism that is cyberspace.
+
+What Lain’s text demonstrates quite neatly is how the limits of an embodied consciousness are just the narrative conventions of any particular systematized serial, in this case, computer softwear. Individual bodies/ selves, within Lain’s text exceed the current social controls. Cyberspace affords a freedom for the medium of consciousness, but in Lain, it is the physical body that causes a censorship to the cyber-medium’s possibilities. By the conclusion of series, Lain has accepted her spirit-like eternal consciousness/existence within the wired, but to the human world system, she appears still in her adolescent body, although her friends now have adult bodies.
+
+In Lain’s text, the relationship of the cybernetic system and the serial text is navigated through an autopoietic organization of the body. This gradual revelation of the structure of things is done in both narrative and visual levels. Lain’s continual self-producing/ self-referential systems, although appearing to be open to structural mutations, change through agitation from surrounding environment, and are isolated, made abstract. As Deleuze has pointed out, this has the effect of revealing, and highlighting the objects of an image, rendering memories (of events, things, concepts) as “optical (and sound) image[s]” (1989: 45). Deleuze described this simplified “description” a feature of screen forms concerned with a “recollection-image, not movement-image” (1989: 47), and Lain’s anime methodology of rendering the barest of subjective information certainly performs Deleuze’s description of an aspect of the perceptual operation of memory.
+
+Lain is a utopian, modernist text in its presentation of the contemporary corporeal coding of information – this is the concept of “infornography”, where the body that is used as vehicle for data flows appears as obscene to the ‘normal’ channels of information, thus requiring (self) censorship. Lain fan websites have also commented that “infornography” refers to the “sexual thrill” gained from the pursuit of the commodity of information.[^2] Coded into Lain’s text are the sexual analogies of the matrix gendered as a sexually active female site. Lain’s hyperworld is rendered as a gothic cyber-catacomb. It is a unstable and dark hyper (in its etymological sense of anxious)-site.
+
+Lain’s narrative attempts to capture that logocentric ideal of the “perfect self-presence, of the immediate possession of meaning”, as Derrida described in his anthropology of communication, the essay “Structure, Sign and Play in the Discourse of the Human Sciences” (1972: 247). Television provides the perfect medium for this endless play of a machinic system of desire; it is the play of capitalism that can be as aesthetically beguiling as it is morally corrupt.
+
+Lain’s text is only radical in its suggestion to the future metamorphosing and irrelevance of the body, and a delight in the representation of that moment of transition: the instant of the tiny death of ecstatic death aestheticized in CGI cells. This concept is an inherent component of Lain’s autopoesis as an “embodied action” of cognition and perception, as Humberto Maturana and Francisco Varela describe in their book, The Tree of Knowledge (1987), an account of a second-order cybernetic systems.
+
+Lain’s mind speaks to its target audience of the omnipresent sensation of self-consciousness living in a compressed and restrictive physical environment. The effect on the body from data flows, according to Lain’s text, is a merger with a mechanically founded system whose current living pulses an infinite, but still operates that infinite according to the politically coded discourse of the sublime. The consumer of this economy could only ever “choose” a dystopic social existence, as Paul Virilio has illustrated, experiencing a ‘shrinkage of geophysical space’ (1997: 9).
+
+Lain’s dialogical mode utilizes specular discourse; an opening of her corporeal cavities and an insertion of the machinic causes corporeal entropy, to a point where Lain’s human body dissipates and mutates into the virtual ether. This corporeal reordering reveals the dynamic semantic formation of a cybernetic system. Lain’s narrative is the pursuit of the ‘truth’ of this cybernetic ontology, as a utopic ecology of self-worship. The series looks at effect of implanted technologies on our everyday, intimate lives, to the point where Lain questions the creator of this evolutionary world, questioning an entity she calls “God”.
+
+Lain talking with God in Layer 12: “Landscape”:
+
+Lain: “What you did, was to remove all the peripheral devices that interact with the wired: phones, television, the network – but without those, you couldn’t have accomplished anything”
+
+God to Lain: “Yes Lain. Those are things which accompanied human evolution. They are not an end in themselves. Understand that humans who are further evolved than other forms of life have a right to greater abilities.”
+
+Lain to God: “But wait a minute – who gave you those rights?”
+
+God: “Gasp”
+
+Lain: “The program that inserted code sing to the earth’s characteristic frequency ... [and] ultimately raised the collective unconscious to the conscious level. So tell me, did you honesty come up with these ideas all by yourself?”
+
+Throughout the series, and particularly in the last three episodes, titled “Infornography”, ”Landscape”, and the final “Ego”, a critical rhetoric levels critical comments against the concept of the inevitable evolution of technologically advanced economies, and the implications for individuals, particularly in the areas of surveillance, censorship and control of activites, and the development of the corporeal body into cybernetic systems. As Lain comments to her friend to Alice: “You and everyone else are all just applications, you don’t need bodies, understand?” (Layer 12: “Landscape”)
+
+Commodity culture is interested in packaging the narratives and gestures of society as aesthetic consumables. Lain represents the cyborg manifesto as lived experience. The world is represented as a simple condition of coded information, regulated by hardwear and softwear. People are softwear, expendible, fragile, corruptible. The text places an emphasis on the extension of the technology of the human machine with the appendages of mobile phones and computer systems. Specific product placement occurs for a number of Apple products – including the Navi – Lain’s computer, as Chiaki Konaka (the writer of the lain scenario and screenplay) is an Apple fan. Navi is most likely a contracted form of “Knowledge Navigator”, described by John Sulley, the CEO of Apple from 1983 to 1993, in his book Odyssey (1987). The Knowledge Navigator was his vision of Apple computers in the 21st century (Eng and Garza: 2003). Produced initially as a subcultural text, Lain’s narrative approach of information overload producing insanity in its resolution relied on the acceptance of a loss of power for the individual body, and the positioning of an essentially humanistic soul in the face of machinistic interface. It's like love will keep us together, whatever. In Christianity neither morality nor religion come into contact with reality at any point. Nothing but imaginary causes (‘God’, ‘soul’, ‘ego’, ‘spirit’, ‘free will’ – or ‘unfree will’): Nothing but imaginary effects (‘sin’, ‘redemption’, ‘grace’, ‘punishment’, ‘forgiveness of sins’). A traffic between imaginary beings (‘God’, ‘spirits’, ‘souls’); an imaginary natural science (anthropocentric; complete lack of the concept of natural causes); an imaginary psychology (nothing but self-misunderstandings, interpretations of pleasant or unpleasant general feelings, for example the condition of the nervus sympathicus, with the aid of the sign-language of religio-moral idiosyncracy – ‘repentance’, ‘string of conscience’, ‘temptation by the Devil’, ‘the proximity of God’, ‘the Last Judgement’, ‘eternal life’). – This purely fictitious world is distinguished from the world of dreams, very much to its disadvantage, by the fact that the latter mirrors actuality, while the former falsifies, disvalues and denies actuality. (Nietzsche, The Anti Christ : 137)
+
+What we witness with this cyber-aesthetic of the capital consumption and production of bodies, is the operating system of coding. Politically concerned poststructuralist practices involved the recognition of the different levels of postmodern production practices– mimesis/imitation as a Eurocentric practice of collecting and othering, mimesis/imitation as the mock-up of reality, mimesis/imitation as an avant-garde practice bound to the inexhaustable demands of the market. Lain's once-removed-from-reality, super-natural, folded narrational style also function, I would like to suggest, as serial texts that deny the ‘actuality’ of a truth to being that Nietzsche was concerned to explore, illustrating the actuality of their historical moment of the homogenous production ethics of consumers.
+
+The embodied flesh in these texts is one of capital- that of the heterotopic production of the body (from its past, from its cloned histories), and (if you have access to the technology), the entropic distribution of flesh into hypertextual modes of being. The body’s ontology may be thought of then, as a site for an accumulation of codes of contemporary aesthetics, able to be distributed when demand requires.
+
+
+Acknowledgements:
+A version of this paper was presented at the “Flesh Made Text: Bodies, Theories, Cultures in the Post-Millennial Era” Conference at the University of Aristotle, Thessaloniki, Greece in May 2003. [1]
+
+Thanks are due to Paulo Venzo for sharing the free spirit, and maintaining the faith in life. Thanks also to Christian McCrea and Henry Graham for their respective Lain nodal moments.
+
+References:
+
+Antonin Artaud (1976) Selected Writings. Ed. Susan Sontag. Trans. Helen Weaver. Los Angeles: University of California Press.
+
+BBC News(2000) “Scientists Crack Human Code”, 26 June, [2] 2003-4-22.
+
+Buffy Speak 101(2003), [3] 2003-5-22.
+
+Gilles Deleuze (1989) Cinema 2: The Time-Image. Trans. Hugh Tomlinson. London: Althone Press.
+
+Gilles Deleuze (2002) Nietzche and Philosophy Trans. Hugh Tomlinson. London and New York: Continuum.
+
+Gilles Deleuze and Félix Guattari (1992) Anti-Oedipus: Capitalism and Schizophrenia. Minneapolis: University of Minnesota Press.
+
+Jacques Derrida (1972) The Structuralist Controversy. London: John Hopkins University Press, 1972.
+
+“Infornography”, Everything2.com (2001), [4] 2003-4-22.
+
+Lawrence Eng and John Garza (2003) “What is the Relationship Between Apple and Lain?” Serial Experiments Lain [5], 2003-4-22.
+
+Michel Foucault (1985) Discipline and Punish: The Birth of the Prison. Trans: Allan Sheridan. London: Penguin.
+
+John Frow (1997) “Tourism and the Semiotics of Nostalgia”. Time & Commodity Culture: Essays in Cultural Theory and Postmodernity. Oxford: Clarendon Press: 64-101.
+
+Jennifer González (2000) “Envisioning Cyborg Bodies: Notes From Current Research”. The Gendered Cyborg: A Reader. Eds. Gill Kirup, Linda James, Kath Woodward, Fiona Hovenden. London and New York: Routledge: 58-73.
+
+Félix Guattari (1995) Chaosmosis: An Ethico-Aesthetic Paradigm Trans. Paul Bains and Julian Pefanis. Sydney: Power Publications.
+
+
+Humberto Maturana and Francisco Varela (1987) The Tree of Knowledge. Boston: New Science Library/Random House.
+
+Nietzsche (1990) Twighlight of the Idols / The Anti-Christ. Trans. R.J.Hollingdale. London: Penguin.
+
+Serial Squadron Message board (2003), [6] 2003-4-22.
+
+Paul Virilio (1997) Open Sky. Trans Julie Rose London: Verso.
+
+Norbert Wiener (1948) Cybernetics Or, Control and Communication in the animal and the Machine. Cambridge, Massachusetts: Technology Press.
+
+Shaun P. Wilbur (2000) “An Archaeology of Cyberspaces: Virtuality, Community, Identity”. The CyberCultures Reader. Eds. David Bell and Barbara M. Kennedy. London and New York: Routledge: 45-55.
+
+
+Notes:
+
+[1] Wilbur discussed the etymological roots of the word virtuality in his essay “An Archaeology of Cyberspaces”: 47.
+
+[2] For an example of fan speculation on the relationship of ‘base information’ and ‘thrills’ refer to “Infornography”, Everything2.com: 2001.
