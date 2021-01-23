@@ -1,5 +1,6 @@
 @font-face {
-  font-family: sans-serif
+  font-family: sans-serif;
+  letter-spacing:1px;
 }
 html,
 body {
@@ -16,7 +17,7 @@ body {
 
 html {
   font-size: 62.5%;
-  font-family: "04b03";
+  font-family: sans-serif;
 }
 
 .box {
