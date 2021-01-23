@@ -1,12 +1,10 @@
 @font-face {
-  font-family: "04b03";
-  src: url("../04b03-webfont.woff2") format("woff2"), url("../fonts/04b03-webfont.woff") format("woff");
-  src: url("../fonts/04b03.TTF") format("truetype");
+  font-family: sans-serif
 }
 html,
 body {
   background-color: black;
-  background-image: url("../images/listingbg.png");
+  background-image: url("listingbg.png");
   background-size: cover;
   background-position: center center;
   text-align: center;
@@ -30,7 +28,7 @@ html {
 .box th,
 .box td {
   padding: 0.1rem 0.5rem;
-  color: pink;
+  color: #aa92c1;
   text-align: left;
   padding: 0.3rem;
 }
@@ -74,7 +72,7 @@ html {
 
 @keyframes WiredB {
   50% {
-    color: #d2738a;
+    color: #aa92c1;
     text-shadow: #d2738a 1px 4px 5px;
   }
 }
